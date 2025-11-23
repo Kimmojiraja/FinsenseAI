@@ -13,7 +13,6 @@ FinSenseAI includes a comprehensive set of functionalities designed to deliver a
 Automatically predicts the category of any raw financial transaction text using a hybrid AI + rule-based pipeline.
 • Bulk CSV Processing
 Allows users to upload entire transaction files and receive fully categorized outputs along with summary analytics.
-
 • Customizable Rule Engine
 Supports merchant-based and keyword-based rules that override model predictions, enabling user-specific personalization.
 • Transformer-Based Deep Learning Model
@@ -49,7 +48,7 @@ Prerquisites
 Before starting, ensure that you have:
 Python 3.8+ installed
 pip package manager
-Git (optional but recommended)
+Git (recommended)
 A terminal/command prompt
 
 ### Step 1: Clone the Repository
@@ -102,7 +101,7 @@ Track system versions and improvements
 A detailed walkthrough video demonstrating the complete functionality of FinSenseAI—including single transaction categorization, bulk upload processing, analytics dashboard, rule engine, and smart insights—is available below:
 google drive link : https://drive.google.com/file/d/1ad1LWe0GURP7IPRynvuoIeF6S9y-W-Cm/view?usp=sharing
 
-### 7. Team Members (Optional)
+### 7. Team Members
 This project was independently developed and implemented by:
 
 👤 Kimmoji Raja
