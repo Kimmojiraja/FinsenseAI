@@ -1,0 +1,7 @@
+{
+    "app_version": "1.0.0",
+    "model_version": "v2.1-distilbert-finance",
+    "dataset_version": "dataset-v3-synthetic-augmented",
+    "rule_engine_version": "1.0.0",
+    "last_updated": "2025-11-20"
+}

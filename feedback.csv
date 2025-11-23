@@ -1,0 +1,9 @@
+transaction,predicted_category,correct_category,confidence,feedback,timestamp
+ola 450 ,Transport,Transport,0.99,yes,2025-11-16 00:32:09
+ola 450 ,Transport,Transport,0.99,yes,2025-11-16 00:32:23
+uber,Transport,Transport,0.99,yes,2025-11-16 00:33:31
+tea,Food & Dining,Food & Dining,0.9996,yes,2025-11-16 00:34:26
+starbucks 450 only ,Food & Dining,Food & Dining,0.99,yes,2025-11-22 17:53:23
+biryani 300,Food & Dining,Food & Dining,0.9998,yes,2025-11-22 18:39:18
+kfc chicken 230,Food & Dining,Food & Dining,0.99,yes,2025-11-23 13:01:36
+coffee  30 rupees ,Food & Dining,Food & Dining,0.9988141059875488,yes,2025-11-23 16:34:31

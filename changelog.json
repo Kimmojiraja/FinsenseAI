@@ -1,0 +1,30 @@
+[
+    {
+        "version": "1.0.3",
+        "date": "2026",
+        "changes": [
+            "Added Smart Insights dashboard",
+            "Introduced User Preferences (merchant & keyword rules)",
+            "Added Version Tracking + Sidebar Version Info",
+            "Added Coming Soon section for future modules"
+        ]
+    },
+    {
+        "version": "1.0.2",
+        "date": "2025-11-20",
+        "changes": [
+            "Added Feedback Analytics page",
+            "Improved dark mode stability",
+            "Fixed feedback persistence bug"
+        ]
+    },
+    {
+        "version": "1.0.1",
+        "date": "2025-11-14",
+        "changes": [
+            "Improved categorization UI",
+            "Fixed inference stability issue",
+            "Added merchant rule-based mapping"
+        ]
+    }
+]
