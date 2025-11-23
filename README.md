@@ -1,12 +1,12 @@
-### 1. FINSENSEAI
-## FinSenseAI – Intelligent Financial Transaction Categorization & Insight Engine
+#  FINSENSEAI
+## 1. FinSenseAI – Intelligent Financial Transaction Categorization & Insight Engine
 This section introduces the official name of the project.
 FinSenseAI is a hybrid AI-powered system designed to automatically understand and categorize raw financial transaction text into meaningful spending categories. The title reflects the system’s core capabilities — financial intelligence, automated understanding, and smart insights.
 
-### 2. Short Description
+## 2. Short Description
 FinSenseAI is an intelligent hybrid system that automatically categorizes raw financial transaction texts into meaningful spending categories using a combination of Deep Learning (Transformer-based model) and a customizable Rule Engine. It simplifies unstructured banking messages, supports bulk CSV processing, generates smart insights, and provides analytics through an intuitive Streamlit interface. The system is designed for real-world use in fintech apps, digital banks, budgeting tools, and expense management platforms.
 
-### 3. Features
+## 3. Features
 FinSenseAI includes a comprehensive set of functionalities designed to deliver accurate categorization, seamless user experience, and meaningful financial insights:
 
 • Single Transaction Categorization
@@ -29,7 +29,7 @@ Maintains model version, dataset version, and system updates for auditability an
 • Modern Streamlit UI
 Dark-themed, visually appealing interface with intuitive navigation and user-friendly controls.
 
-### 4. Architecture 
+## 4. Architecture 
 The architecture of FinSenseAI is designed as a hybrid pipeline that ensures high accuracy, personalization, and explainability. The system operates across three primary layers:
 
 • Layer 1: Deep Learning Model (Transformer Classifier)
@@ -42,8 +42,8 @@ Applies merchant-based and keyword-based rules defined by the user. This layer o
 Handles all user interactions including single transaction input, bulk processing, analytics visualization, insight generation, feedback logging, and version tracking.
 Together, these layers create a seamless workflow where a transaction is cleaned, analyzed, categorized, and visualized with full transparency.
 
-### 5. How to Run the Code
-## Follow the steps below to set up and run FinSenseAI on your local machine.
+## 5. How to Run the Code
+### Follow the steps below to set up and run FinSenseAI on your local machine.
 
 Prerquisites
 Before starting, ensure that you have:
@@ -52,14 +52,14 @@ pip package manager
 Git (optional but recommended)
 A terminal/command prompt
 
-# Step 1: Clone the Repository
+### Step 1: Clone the Repository
 
 If you have Git installed:
 git clone https://github.com/<your-username>/FinSenseAI.git
 cd FinSenseAI
 If not, simply download the ZIP from GitHub and extract it.
 
-# Step 2: Install Required Python Libraries
+### Step 2: Install Required Python Libraries
 
 Install all dependencies from requirements.txt:
 pip install -r requirements.txt
@@ -71,13 +71,13 @@ Scikit-learn
 Matplotlib / Seaborn
 Other utility libraries
 
-# Step 3: Run the Streamlit Application
+### Step 3: Run the Streamlit Application
 
 Execute the command:
 streamlit run app.py
 This will open the FinSenseAI interface in your browser automatically.
 
-# Step 4: Using the Application
+### Step 4: Using the Application
 
 Once the app launches:
 
